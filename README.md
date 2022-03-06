@@ -8,3 +8,4 @@ jjjsscc
 llkokok
 trzy dwa jeden
 raz raz
+teraz do pull robimy 
