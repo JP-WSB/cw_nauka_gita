@@ -6,4 +6,5 @@ dsaffda
 hello word 
 jjjsscc
 llkokok
-
+trzy dwa jeden
+raz raz
